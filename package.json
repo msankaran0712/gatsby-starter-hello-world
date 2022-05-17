@@ -14,9 +14,12 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "@trimbleinc/modus-react-bootstrap": "^1.0.0",
     "gatsby": "^4.14.0",
+    "gatsby-plugin-sass": "^5.14.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "sass": "^1.51.0"
   },
   "devDependencies": {
     "prettier": "^2.6.2"
